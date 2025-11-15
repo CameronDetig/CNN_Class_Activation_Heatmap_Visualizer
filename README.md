@@ -1,7 +1,11 @@
 # CNN Class Activation Heatmap Visualizer
 Hugging Face Space to display a heatmap of areas a CNN uses for classification. Utilizes Keras with the JAX backend and Gradio for the UI.
 
+<br>
+
 Try it out! You may need to restart the space if it is asleep: https://huggingface.co/spaces/cameron-d/CNN_Class_Activation_Heatmap_Visualizer
+
+<br>
 
 Code adapted from: https://deeplearningwithpython.io/chapters/chapter10_interpreting-what-convnets-learn/#visualizing-heatmaps-of-class-activation
 
