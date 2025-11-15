@@ -1,0 +1,7 @@
+gradio
+keras>=3.0.0
+keras-hub
+jax
+matplotlib
+pillow
+numpy
